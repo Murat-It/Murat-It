@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/ti/vetor-gratis/p3/11166144-devops-banner-conceito-de-ilustracaoial-de-icone-da-web-para-engenharia-e-desenvolvimento-de-software-com-um-icone-de-uma-versao-de-teste-de-construcao-de-codigo-de-plano-implantar-operar-e-monitorar-vetor.jpg)](https://Murat-It.io)
+
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="DevOps Engineer" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
